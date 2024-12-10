@@ -1,1 +1,1 @@
-# kursova
+# cosmos-landing-page
